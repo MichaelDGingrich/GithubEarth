@@ -1,0 +1,41 @@
+<html>
+
+
+
+
+<body>
+
+
+
+
+<table border="1">
+<th>Govenment shouldnt look at our data</th>
+<th>Govenment should look at our data</th>
+<tr>
+<td>Right to privacy</td>
+<td>Helps stop terrorism</td>
+
+</tr>
+<tr>
+<td>Could infringe freedom of speech</td>
+<td>Can stop attacks before they happen</td>
+
+
+
+</tr>
+<tr>
+<td>Backdoors can let viruses into your computer</td>
+<td>Backdoors can lead to more protection</td>
+</tr>
+
+
+
+
+</table>
+
+
+
+
+
+</body>
+</html>
